@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-EventEntranceRearrangingTicket
+ Power Apps キャンバスアプリで実装したイベントに抽選入場を導入するための整理券アプリ
